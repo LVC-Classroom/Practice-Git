@@ -6,6 +6,7 @@ Contribute to this repository by following these steps:
 
 - Fork this repository to make a copy of this in your own account.
 - Use the command `git clone URL` to clone the repo to your personal computer. The URL should be of the forked repository.
+- Change directory using `cd Practice-Git`
 - Now add the upstream URL using `git remote add upstream URL`. This URL is of the main repository, i.e, this repository.
 - Edit README.md to add your name along with your GitHub profile link.
 - Make a branch using the command `git branch branchName`.
