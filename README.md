@@ -18,8 +18,3 @@ Contribute to this repository by following these steps:
 
 ## Add your names below
 ---
-<<<<<<< HEAD
-Lisa
-=======
-Alan
->>>>>>> 2bf34e03b9b6ec0293c877c3917a965028d43b91
